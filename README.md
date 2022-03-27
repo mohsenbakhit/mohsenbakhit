@@ -8,6 +8,6 @@ I am a Software Developer/Engineer based in :canada:.
 ##### BIO:
 🌍 I was born and raised in :iran:<br>
 :100: I am proficient at `.c++`, `.java`, `.python`, `.javascript`.<br>
-⚙️I'm really interested in learning more about <strong>blockchain</strong>.<br>
+⚙️I'm really interested in learning more about <strong>ML</strong>.<br>
 📫You can reach me at: [snakeeater64@protonmail.com](snakeeater64@protonmail.com)<br>
 :fire: Huge fan of the Witcher and ASOIAF.
