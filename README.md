@@ -6,8 +6,7 @@ I am a CS Student based in :canada:.
 - Working on a Voting Poll Simulation.
 
 ##### BIO:
-🌍 I was born and raised in :iran:<br>
 :100: I am proficient at `.c++`, `.java`, `.python`, `.javascript`.<br>
 ⚙️I'm really interested in learning more about <strong>ML</strong>.<br>
 📫You can reach me at: [bakhitmohsen@proton.me](bakhitmohsen@proton.me)<br>
-:fire: Huge fan of the Witcher and ASOIAF.
+:fire: Huge fan of the Witcher and Batman.
