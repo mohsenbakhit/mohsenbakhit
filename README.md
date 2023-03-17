@@ -3,7 +3,7 @@
 I am a CS Student based in :canada:.
 ##### I am:
 - Studying Computer Science at [UBC](https://github.com/ubc).
-- Working on a Voting Poll Simulation.
+- Working on a MMA Tournament Simulation.
 
 ##### BIO:
 :100: I am proficient at `.c++`, `.java`, `.python`, `.javascript`.<br>
