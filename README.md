@@ -1,12 +1,31 @@
-<strong>Hello, there.</strong> 👋 
+# Hello, I'm [Mohsen Bakhit]
 
-I am a CS Student based in :canada:.
-##### I am:
-- Studying Computer Science at [UBC](https://github.com/ubc).
-- Working on an NBA discussion board.
+I'm a Computer Science student at the University of British Columbia (UBC), passionate about programming and technology. I have a diverse skill set and a keen interest in Machine Learning and Cryptography. Let me tell you a bit more about myself!
 
-##### BIO:
-:100: I am proficient at `.c++`, `.java`, `.python`, `.javascript`.<br>
-⚙️I'm really interested in learning more about <strong>ML</strong>.<br>
-📫You can reach me at: [bakhitmohsen@proton.me](bakhitmohsen@proton.me)<br>
-:fire: Huge fan of the Witcher and Batman.
+## About Me
+
+- 📚 I'm currently pursuing a Bachelor's degree in Computer Science at UBC.
+- 💻 Proficient in JavaScript, Java, Python, and C++.
+- 🤖 Passionate about Machine Learning and AI.
+- 🔐 Fascinated by Cryptography and its applications with ML.
+- 🌐 Always eager to learn and explore new technologies.
+
+## Skills
+
+- **Languages**: JavaScript, Java, Python, C++
+- **Web Development**: React, Nodejs, Django
+- **Machine Learning**: TensorFlow
+
+
+## Learning Journey
+
+- I'm always seeking new challenges and opportunities to grow.
+- Currently exploring topics in machine learning and cryptography.
+- Actively participate in coding competitions and hackathons to enhance my problem-solving skills.
+
+## Get in Touch
+
+I'm open to collaborations, learning opportunities, and interesting projects. If you'd like to connect, discuss ideas, or simply chat about technology, you can reach out to me via:
+
+- 📧 Email: bakhitmohsen@proton.me
+-
