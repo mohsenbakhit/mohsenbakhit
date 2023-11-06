@@ -1,4 +1,4 @@
-# Hello, I'm [Mohsen Bakhit]
+# Hello, I'm Mohsen Bakhit
 
 I'm a Computer Science student at the University of British Columbia (UBC), passionate about programming and technology. I have a diverse skill set and a keen interest in Machine Learning and Cryptography. Let me tell you a bit more about myself!
 
