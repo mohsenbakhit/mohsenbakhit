@@ -1,6 +1,6 @@
 # Hello, I'm Mohsen Bakhit
 
-I'm a Computer Science student at the University of British Columbia (UBC), passionate about programming and technology. I have a diverse skill set and a keen interest in Artificial Intelligence . Let me tell you a bit more about myself!
+I'm a Computer Science student at the University of British Columbia (UBC), passionate about programming and technology. I have a diverse skill set and a keen interest in Computer Systems . Let me tell you a bit more about myself!
 
 ## About Me
 
