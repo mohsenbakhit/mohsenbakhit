@@ -27,4 +27,4 @@ I'm a Computer Science student at the University of British Columbia (UBC), pass
 I'm open to collaborations, learning opportunities, and interesting projects. If you'd like to connect, discuss ideas, or simply chat about technology, you can reach out to me via:
 
 - 📧 Email: bakhitmohsen@proton.me
-- LinkedIn: [bakhitmohsen](https://linkedin.com/in/mohsenbakhit)
+- LinkedIn: [mohsenbakhit](https://linkedin.com/in/mohsenbakhit)
