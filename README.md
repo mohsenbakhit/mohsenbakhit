@@ -13,8 +13,8 @@ I'm a Computer Science student at the University of British Columbia (UBC), pass
 ## Skills
 
 - **Languages**: Python, C++, JavaScript
-- **Web Development**: React, Nodejs, Django
 - **Machine Learning**: TensorFlow, sci-kit
+- **Web Development**: React, Vue, Node
 
 
 ## Learning Journey
