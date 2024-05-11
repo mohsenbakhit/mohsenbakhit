@@ -7,7 +7,7 @@ I'm a Computer Science student at the University of British Columbia (UBC), pass
 - 📚 I'm currently pursuing a Bachelor's degree in Computer Science @ UBC.
 - 👔 Working as a Software Engineering Intern at Codecertain.ai
 - 💻 Proficient in Python, C++.
-- 🤖 Passionate about Neuromorphic Computing and Computer Systems.
+- 🤖 Passionate about Quantum Computing and Computer Systems.
 - 🌐 Always eager to learn and explore new technologies.
 
 ## Skills
