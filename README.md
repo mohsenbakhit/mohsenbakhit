@@ -1,30 +1,18 @@
-# Hello, I'm Mohsen Bakhit
-
-I'm a Computer Science student at the University of British Columbia (UBC), passionate about programming and technology. I have a diverse skill set and a keen interest in Computer Systems . Let me tell you a bit more about myself!
-
-## About Me
-
-- 📚 I'm currently pursuing a Bachelor's degree in Computer Science @ UBC.
-- 👔 Working as a Software Engineering Co-OP @ UBC
-- 💻 Proficient in Python, C++.
-- 🤖 Passionate about Quantum Computing and Computer Systems.
-- 🌐 Always eager to learn and explore new technologies.
-
-## Skills
-
-- **Languages**: Python, C++, JavaScript
-- **Machine Learning**: TensorFlow, sci-kit
-- **Web Development**: React, Vue, Node
+# 💫 About Me:
+📚 I'm currently pursuing a Bachelor's degree in Computer Science @ UBC.<br>👔 Working as a Software Engineering Co-OP @ UBC<br>💻 Proficient in Python, C++.<br>🤖 Passionate about Quantum Computing and Computer Systems.<br>🌐 Always eager to learn and explore new technologies.<br>
 
 
-## Learning Journey
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohsenbakhit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohsenbakhit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenbakhit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- I'm always seeking new challenges and opportunities to grow.
-- Actively participate in coding competitions and hackathons to enhance my problem-solving skills.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohsenbakhit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Get in Touch
+---
+[![](https://visitcount.itsvg.in/api?id=mohsenbakhit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm open to collaborations, learning opportunities, and interesting projects. If you'd like to connect, discuss ideas, or simply chat about technology, you can reach out to me via:
-
-- 📧 Email: bakhitmohsen@proton.me
-- LinkedIn: [mohsenbakhit](https://linkedin.com/in/mohsenbakhit)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
