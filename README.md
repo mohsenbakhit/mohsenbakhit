@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently pursuing a Bachelor's degree in Computer Science @ UBC.<br>👔 Working as a Software Engineering Co-OP @ CIBC<br>💻 Proficient in Go, Python, C++.<br>🤖 Passionate about Quantum Computing and Computer Systems.<br>🌐 Always eager to learn and explore new technologies.<br>
+📚 I'm currently pursuing a Bachelor's degree in Computer Science @ UBC.<br>👔 Working as a Software Engineering Intern @ Mastercard <br>💻 Proficient in Go, Python, C++.<br>🤖 Passionate about Quantum Computing and Computer Systems.<br>🌐 Always eager to learn and explore new technologies.<br>
 
 
 # 💻 Tech Stack:
