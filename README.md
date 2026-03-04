@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently pursuing a Bachelor's degree in Computer Science @ UBC.<br>👔 Returning Software Engineer @ Mastercard <br>💻 Proficient in Go, Python, Java.<br>🤖 Passionate about Quantum Computing.<br>🌐 Always eager to learn and explore new technologies.<br>
+📚 I'm currently pursuing a Bachelor's degree in Computer Science @ UBC.<br>👔 Returning Software Engineer @ Mastercard <br>💻 Proficient in Go, Python, Java.<br>🌐 Always eager to learn and explore new technologies.<br>
 
 
 # 💻 Tech Stack:
